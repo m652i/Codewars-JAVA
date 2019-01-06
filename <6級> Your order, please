@@ -1,0 +1,19 @@
+import java.util.Hashtable;
+public class Order {
+	public static String order(String w) {
+		Hashtable<Integer, Integer> hs = new Hashtable<>();
+		StringBuilder sb = new StringBuilder();
+		if(w == "") return "";
+		String wlist [] = w.split(" ");
+		int index = Integer.parseInt(w.replaceAll("[^0-9]", ""));
+		int indexlist [] = Integer.toString(index).chars().map(c -> c-'0').toArray();
+		for(int i = 0; i < indexlist.length; ++i) {
+			hs.put(indexlist[i],i);
+		}
+		for(int i = 1; i<= indexlist.length; ++i) {
+			sb.append(wlist[hs.get(i)] + ' ');
+		}
+    sb.setLength(sb.length() - 1);
+		return sb.toString();
+	  }
+}
