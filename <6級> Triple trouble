@@ -1,0 +1,28 @@
+import java.util.*;
+
+public class Kata
+{
+	public static int TripleDouble(long n1, long n2) 
+	  {
+		  Boolean b1 = false; 
+		  Boolean b2 = false;
+		  int a=0;
+		  int b=0;
+		  String longString1 = String.valueOf(n1);
+		  String longString2 = String.valueOf(n2);
+		  for(int i = 0; i < longString1.length()-2;i++) {
+			  if(longString1.charAt(i) == longString1.charAt(i+1) && longString1.charAt(i) == longString1.charAt(i+2)) {
+	    			b1 = true;
+	    			a = longString1.charAt(i);
+			  }
+		  }
+		  for(int i = 0; i < longString2.length()-1;i++) {
+			  if(longString2.charAt(i) == longString2.charAt(i+1) ) {
+	    			b2 = true;
+	    			b = longString2.charAt(i);
+			  }
+		  }
+		  if(b1&&b2&&a==b)return 1;
+		  else return 0;
+	  }
+}
