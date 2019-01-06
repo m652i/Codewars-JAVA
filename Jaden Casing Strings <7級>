@@ -1,0 +1,16 @@
+public class JadenCase {
+
+	public String toJadenCase(String phrase) {
+		// TODO put your code below this comment
+    if (phrase == null) return null;
+    if (phrase.isEmpty() == true) return null;
+		String[] a = phrase.split(" ");
+		String answer = "";
+		int i = 0;
+		while (i < a.length - 1) {
+			answer = answer + a[i].substring(0, 1).toUpperCase() + a[i].substring(1) + " ";
+			++i;
+		}
+		answer = answer + a[i].substring(0, 1).toUpperCase() + a[i].substring(1);
+		return answer;
+	}
