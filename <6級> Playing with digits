@@ -1,0 +1,29 @@
+import java.util.*;
+import java.lang.Math;
+
+public class DigPow {
+  public static int digPow(int k, int start) {
+		ArrayList<Integer> arr = new ArrayList<>();
+		ArrayList<Double> total = new ArrayList<>();
+		int n = 0;
+		int temp = k;
+		while(temp/10 >= 1) {
+			arr.add(temp%10);
+			temp /= 10;
+			n++;
+		}
+		arr.add(temp%10);
+		double a;
+		for(int i = n; i >= 0; i--) {
+			a = Math.pow(arr.get(i),start);
+			total.add(a);
+			start++;
+		}
+		double totalt = 0;
+		for(double i : total) totalt += i;
+		if(totalt%k == 0) {
+			return (int) (totalt/k);
+		}
+		return -1;
+	}
+}
