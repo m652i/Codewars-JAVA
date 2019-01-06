@@ -3,9 +3,12 @@ Codewars practices, main JAVA.
 
 Java practices basically. 
 <8級> <---- 級 pronounced as Kyuu, means level.
+
 The lower the number, the higher the difficulty, 8 is the easiest. 
 
 Copying code over is from the other site is a bit difficult, so the uploads will be slower. 
+
+
 
 These are my solutions, there are voted better solutions on the website! 
 
