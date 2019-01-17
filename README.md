@@ -9,13 +9,13 @@ Codewars practices, main JAVA.
 
 Place I go for Java practices.
 
->The lower the number is, the higher the difficulty. 
+The lower the number is, the higher the difficulty. 
 
 >**8** being the easiest, **1** being the hardest. 
 
-(I believe there are no level past 1, but I could be wrong.)
+>(I believe there are no level past 1, but I could be wrong.)
 
-Copying code over is from the other site is a bit difficult, so the uploads will be slower. 
+Copying code over is from another site, so the uploads will be slower. 
 
 
 Current completed level :
