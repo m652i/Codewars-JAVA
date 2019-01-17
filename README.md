@@ -1,7 +1,7 @@
 # Codewars-JAVA
 Codewars practices, main JAVA.
 
-*Jan/17th Edit : Added .java to the files so the code is color coded.*
+*Edit Jan/17th : Added .java to the files so the code is color coded.*
 
 **<8級> <---- 級 pronounced as Kyuu, means level.**
 
@@ -11,6 +11,14 @@ Codewars practices, main JAVA.
   (I believe there are no level past 1, but I could be wrong.)
   Copying code over is from the other site is a bit difficult, so the uploads will be slower. 
 
+- [ ] Reach level 1
+- [ ] Reach level 2
+- [ ] Reach level 3
+- [ ] Reach level 4
+- [ ] Reach level 5
+- [ ] Reach level 6
+- [ ] Reach level 7
+- [ ] Reach level 8
 
 These are my solutions, there are voted better solutions on the website! 
 (But sometimes the top voted ones are just really short code, not necessarily the most efficient or the easiest to read
