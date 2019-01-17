@@ -1,6 +1,8 @@
 # Codewars-JAVA
 Codewars practices, main JAVA.
 
+Jan/17th Edit : Added .java to the files so the code is color coded. 
+
 Java practices basically. 
 <8級> <---- 級 pronounced as Kyuu, means level.
 
