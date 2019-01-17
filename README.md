@@ -35,4 +35,4 @@ These are my solutions, there are voted better solutions on the website!
 
 ================================================================================================
 
-*Edit Jan17th : Added .java so the code is color coded and more readable.
+*Edit Jan17th : Added .java so the code is color coded and more readable.*
