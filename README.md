@@ -1,11 +1,9 @@
 ## Codewars-JAVA
 Codewars practices, main JAVA.
 
-*Edit Jan/17th : Added .java to the files so the code is color coded.*
-
 **<8級> <---- 級 pronounced as Kyuu, means level.**
 
-=========================================================================
+================================================================================================
 
 Place I go for Java practices.
 
@@ -34,3 +32,7 @@ Current completed level :
 These are my solutions, there are voted better solutions on the website!
 
 (But sometimes the top voted ones are just really short code, not necessarily the most efficient or the easiest to read)
+
+================================================================================================
+
+*Edit Jan17th : Added .java so the code is color coded and more readable.
