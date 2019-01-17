@@ -1,4 +1,4 @@
-# Codewars-JAVA
+## Codewars-JAVA
 Codewars practices, main JAVA.
 
 *Edit Jan/17th : Added .java to the files so the code is color coded.*
