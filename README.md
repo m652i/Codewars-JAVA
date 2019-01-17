@@ -12,15 +12,18 @@ Codewars practices, main JAVA.
   Copying code over is from the other site is a bit difficult, so the uploads will be slower. 
 
 
+Current completed level :
+
+- [ ] level 1
+- [ ] level 2
+- [ ] level 3
+- [ ] level 4
+- [X] level 5
+- [X] level 6
+- [X] level 7
+- [X] level 8
+
+
 
 These are my solutions, there are voted better solutions on the website! 
 (But sometimes the top voted ones are just really short code, not necessarily the most efficient or the easiest to read
-
-- [ ] Reach level 1
-- [ ] Reach level 2
-- [ ] Reach level 3
-- [ ] Reach level 4
-- [X] Reach level 5
-- [X] Reach level 6
-- [X] Reach level 7
-- [X] Reach level 8
