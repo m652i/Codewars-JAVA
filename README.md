@@ -36,6 +36,8 @@ These are my solutions, there are voted better solutions on the website!
 ====================================================================================
 
 *Edit Jan 17th : Added .java so the code is color coded and more readable.*
+
 *Edit Jan 6th : Added files.*
+
 *Edit Jan 5th : Changed format.*
 
