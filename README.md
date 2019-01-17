@@ -16,7 +16,7 @@ The lower the number is, the higher the difficulty.
 Copying code over is from another site, so the uploads will be slower. 
 
 
-Current completed level :
+**Current completed level :**
 
 - [ ] level 1
 - [ ] level 2
